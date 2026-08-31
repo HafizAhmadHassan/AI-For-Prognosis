@@ -1,4 +1,5 @@
 # AI for Prognosis
+*Created: 2020-09-21*
 
 Assignments and lecture notes from an **AI for Prognosis** course.
 
